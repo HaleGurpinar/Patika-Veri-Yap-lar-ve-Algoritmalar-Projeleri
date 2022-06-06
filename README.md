@@ -1,1 +1,1 @@
-# Patika-Veri-Yap-lar-ve-Algoritmalar-Projeleri
+# Patika//Veri-Yapilari-ve-Algoritmalar-Projeleri
